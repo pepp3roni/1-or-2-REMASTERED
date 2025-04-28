@@ -16,7 +16,7 @@ if BXOD == 1:
     print("Ты сел напротив диллера.")
     time.sleep(1)
     print(f"{name.upper()}, мы начинаем.")
-    while money > 0:
+    while money > 1:
         print("Проиграешь - получишь 0, выиграешь - удвоишь выигрыш..")
         time.sleep(1)
         stavka = int(input("Сколько поставишь?\n        "))
