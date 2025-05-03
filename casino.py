@@ -58,7 +58,7 @@ if BXOD == 1:
     print("         Game Over")
 else:
     print("Ты остался жив, мои поздравления..")
-        
+         
    
          
         
